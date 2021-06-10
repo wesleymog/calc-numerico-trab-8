@@ -4,7 +4,7 @@
 #### Alunos: 
 - Arthur Mendonça Sasse - 117206692
 - Carla Moreno Barbosa - 117250502
-- Eduardo Melo - :EMOJICODE: 🛑 **[Inserir DRE Eduardo]** 
+- Eduardo Melo - 🛑 **[Inserir DRE Eduardo]** 
 - Wesley Mota de Oliveira Gomes - 117094621
 
 #### Breve explicação dos arquivos: 
